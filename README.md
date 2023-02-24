@@ -1,1 +1,2 @@
-# first-repo
+  - [Preview](https://danielsorokowski.github.io/first-repo/)
+  - [Pull Request](https://github.com/DanielSorokowski/first-repo/pull/1)
